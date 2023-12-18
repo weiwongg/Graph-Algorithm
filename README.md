@@ -13,6 +13,10 @@
 
 ## Minimum Spanning Tree
 1. Min Cost to Connect All Points; See example [LeetCode](https://leetcode.com/problems/min-cost-to-connect-all-points/description/)
-   * Kruskal’s Algorithm and Union-Find algorithm
+   * Kruskal’s algorithm and Union-Find algorithm
+
+## Topological Sort
+1. Course Schedule; See example [LeetCode](https://leetcode.com/problems/course-schedule/description/)
+   * Kahn's algorithm and Breadth first search
    
 
