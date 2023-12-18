@@ -18,5 +18,9 @@
 ## Topological Sort
 1. Course Schedule; See example [LeetCode](https://leetcode.com/problems/course-schedule/description/)
    * Kahn's algorithm and Breadth first search
+
+## Graph coloring/Bipartition
+1. Possible Bipartition; See example [LeetCode](https://leetcode.com/problems/possible-bipartition/description/)
+   * Breadth first search
    
 
